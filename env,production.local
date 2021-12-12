@@ -1,5 +1,5 @@
 AUTH0_SECRET=FoH30fIJ9o4YQ8hbyT9QKSCf_5FQwJur1ALtwX-iTDSlHNiyelc7Rys6kOKqNAym543543r3f34g34g3gf3g3g
-AUTH0_BASE_URL=http://localhost:3000
+AUTH0_BASE_URL=https://aft-modelare-no-sv-f6fmugx1j-ripanionut.vercel.app
 AUTH0_ISSUER_BASE_URL='https://curs.eu.auth0.com'
 AUTH0_CLIENT_ID='WWESOb30c23SE3egA65EJKw5vuQfdtff'
 AUTH0_CLIENT_SECRET='FoH30fIJ9o4YQ8hbyT9QKSCf_5FQwJur1ALtwX-iTDSlHNiyelc7Rys6kOKqNAym'
