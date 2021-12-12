@@ -5,7 +5,7 @@ import Typed from "react-typed";
 import { useGetUser } from "@/actions/user";
 import Image from 'next/image'
 
-const roles = ["From", "Now", "To", "Forever"];
+const roles = ["From", "Now", "To", "Foreverr"];
 const roles2 = ["AFT", "E CEL", "MAI", "TARE"];
 const Index = () => {
   const { data, loading } = useGetUser();
