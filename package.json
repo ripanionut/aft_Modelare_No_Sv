@@ -6,8 +6,7 @@
     "dev-debugg": "cross-env NODE_OPTIONS='--inspect' next dev",
     "build": "next build",
     "start": "cross-env NODE_ENV=production node server.js",
-    "lint": "next lint",
-    "start": "next start"
+    "lint": "next lint"
   },
   "dependencies": {
     "@auth0/nextjs-auth0": "^1.6.1",
