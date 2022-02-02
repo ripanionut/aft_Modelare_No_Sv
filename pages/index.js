@@ -28,7 +28,7 @@ const Index = () => {
                     <div className="hero-section-content">
                       <h2>Road To Full Stack Web Developer </h2>
                       <div className="hero-section-content-intro">
-                        Proiect Laborator Modelare si Simulate
+                        Ⓒ Made by Ripan Ionut 
                       </div>
                     </div>
                     <Image width={450}
