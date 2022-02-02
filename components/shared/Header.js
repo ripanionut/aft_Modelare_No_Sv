@@ -23,7 +23,7 @@ const BsNavLink = (props) => {
 
 const BsNavBrand = () => (
   <Link href="/">
-    <a className="navbar-brand port-navbar-brand">⚡ Ripan Ionut ⚡ </a>
+    <a className="navbar-brand port-navbar-brand">⚡ AFT ⚡ </a>
   </Link>
 );
 
